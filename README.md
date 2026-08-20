@@ -114,8 +114,8 @@ Show recent cricket news.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/cricket-analytics-mcp.git
-cd cricket-analytics-mcp
+git clone https://github.com/manasranjanmeher99/Cricket-Analytics-MCP.git
+cd Cricket-Analytics-MCP
 ```
 
 ### 2. Create a virtual environment
