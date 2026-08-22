@@ -215,11 +215,10 @@ Recommended screenshots:
 
 Then reference them in this README:
 
-``` markdown
 ![Player Statistics](screenshots/player-stats.png)
 
 ![Player Comparison](screenshots/player-comparison.png)
-```
+
 
 ## 🚀 Future Improvements
 
